@@ -1,0 +1,165 @@
+
+body {
+  text-align: center;
+ }
+
+ h1 {
+   font-family: 'Sacramento', cursive;
+   margin: 50px auto 0 auto;
+   color: #709fb0;
+  }
+
+.NMK {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+ }
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2rem;
+  color:  #709fb0;
+  font-weight: normal;
+  padding-bottom: 10px;
+ }
+
+ h3 {
+   font-family: 'Bellota', cursive;
+  }
+
+p {
+  font-family:'Balsamiq Sans', cursive;
+  line-height: 2;
+ }
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #ccafaf;
+ }
+
+ .middle-container {
+   margin: 50px 0 50px 0;
+  }
+
+.bottom-container {
+  background-color: #ccafaf;
+  margin: 50px 0 50px 0;
+  color: #EAF6F6;
+
+ }
+
+.pro {
+  text-decoration: underline;
+ }
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+ }
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+ }
+
+.profile-photo
+{
+  padding-top: 20px;
+ }
+
+hr {
+  border: dotted #342b38 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+br {
+  background-color: white;
+}
+
+.html-coding {
+  width: 350px;
+  height: 350px;
+}
+
+.hello {
+  display: block;
+}
+
+.HTML-CSS {
+  font-family: 'Bellota', cursive;
+}
+
+.btn {
+  font-family: 'Bellota', cursive;
+}
+
+.percussion {
+  font-family: 'Bellota', cursive;
+}
+
+h5 {
+  font-family:'Balsamiq Sans', cursive;
+ }
+
+ div.top-container {
+   line-height: 2;
+  }
+
+.skill-row {
+  width: 50%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+ }
+
+ .html-coding {
+   height: 20%;
+   float: left;
+   padding-right: 30px;
+   padding-top: 50px;
+  }
+
+  .drum {
+    height:25%;
+    width: inherit;
+    float: right;
+    padding-left: 30px;
+    padding-top: 50px;
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+
+  .btn {
+    background: #CCAFAF;
+    background-image: -webkit-linear-gradient(top, #CCAFAF, #7D5A5A);
+    background-image: -moz-linear-gradient(top, #CCAFAF, #7D5A5A);
+    background-image: -ms-linear-gradient(top, #CCAFAF, #7D5A5A);
+    background-image: -o-linear-gradient(top, #CCAFAF, #7D5A5A);
+    background-image: linear-gradient(to bottom, #CCAFAF, #7D5A5A);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: 'Bellota', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #00A1AB;
+    background-image: -webkit-linear-gradient(top, #00A1AB, #00263B);
+    background-image: -moz-linear-gradient(top, #00A1AB, #00263B);
+    background-image: -ms-linear-gradient(top, #00A1AB, #00263B);
+    background-image: -o-linear-gradient(top, #00A1AB, #00263B);
+    background-image: linear-gradient(to bottom, #00A1AB, #00263B);
+    text-decoration: none;
+  }
